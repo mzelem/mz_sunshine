@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_units">
+        <item>@string/pref_units_default</item>
+        <item>@string/pref_units_imperial</item>
+    </array>
+
+</resources>
